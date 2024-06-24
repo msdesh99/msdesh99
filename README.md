@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hello, I'm [Meenakshi Deshpande]! 👋
 
-<!--
-**msdesh99/msdesh99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am a passionate software development engineer with a strong background in automated testing and web development. I enjoy creating robust and scalable solutions using various technologies.
 
-Here are some ideas to get you started:
+## Skills
+- **Programming Languages:** Java, JavaScript, PHP
+- **Automation Tools:** Selenium WebDriver, Playwright
+- **Testing Frameworks:** TestNG, JUnit, Cucumber
+- **API Testing:** RestAssured, Postman
+- **Databases:** PostgreSQL,MYSQL
+- **CI/CD:** Jenkins
+- **Other:** Git, Agile methodologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- **Project 1:** Automation Framework using Selenium, Cucumber, TestNG, Allure & Extent Reports, Jenkins, and JIRA.
+- - Project Link: [project link](https://github.com/msdesh99/NinjaAlgo.git)
+- **Project 2:** Describe another project, focusing on your contributions and achievements.
+
+## Experience
+I have 9+ years of experience in software developement and Test Automation. Currently I am working as a SDET since last 1 year. I am responsible to develop a automation framework from scartch using selenium, Cucumber using TestNG framework and API Test Automation using Rest Assured and Postman tool. I am comfortable working on agile mathdology, GitHub as a version control and Jenkins. I am learning a playwright framework for web testing and mobile Test Automation.
+
+## Education
+- **Degree:** Bachelor’s of Engineering in Computer Science
+
+## Certifications
+- **Certification Name:** ISTQB Foundation Level (2023)
+
+## Contact Me
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/meenakshi-deshpande-818292268/]
+- Email: msdesh99@gmail.com
+
+## Additional Information
+- 💬 Ask me about automated testing strategies, web development, and best practices in software engineering.
+- 🌱 I’m currently learning Modbile Automation.
+- 😄 Pronouns: She/Her
