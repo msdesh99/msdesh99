@@ -14,8 +14,9 @@ I am a passionate software development engineer with a strong background in auto
 
 ## Projects
 - **Project 1:** Automation Framework using Selenium, Cucumber, TestNG, Allure & Extent Reports, Jenkins, and JIRA.
-- - Project Link: [project link](https://github.com/msdesh99/NinjaAlgo.git)
-- **Project 2:** Describe another project, focusing on your contributions and achievements.
+-- [Project link](https://github.com/msdesh99/NinjaAlgo.git)
+- **Project 2:** Automation Framework using Playwright Javascript + Cucumber (BDD).
+-- [Project link](https://github.com/msdesh99/dsalgocucumberplaywrightjsmultienv.git)
 
 ## Experience
 I have 9+ years of experience in software developement and Test Automation. Currently I am working as a SDET since last 1 year. I am responsible to develop a automation framework from scartch using selenium, Cucumber using TestNG framework and API Test Automation using Rest Assured and Postman tool. I am comfortable working on agile mathdology, GitHub as a version control and Jenkins. I am learning a playwright framework for web testing and mobile Test Automation.
